@@ -1,0 +1,67 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color:#304269;
+    background-color: #FFFFFF;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #304269;
+    font-size: 2rem;
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+    color: #304269;
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color:#304269;
+}
+
+nav {
+    font-size: 0.8rem;
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
+    border-bottom-style: solid;
+    border-width: 0.15rem;
+    border-color:#D9E8F5;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color:#304269;
+    margin-left: 0.4rem;
+}
+
+.navbar-nav {
+    font-family: 'Montserrat', sans-serif;
+    color:#304269;
+}
+
+.navbar-link {
+    color:#304269;
+}
+
+img {
+    width: 450px;
+}
+
+#bottomSection {
+    border-top: solid;
+    border-width: 0.15rem;
+    border-color:#D9E8F5;
+}
+
+i {
+    color:#FFFFFF;
+}
+
+footer {
+    text-align: right;
+    background-color:#304269
+}
