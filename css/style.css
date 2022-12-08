@@ -61,6 +61,14 @@ i {
     color:#FFFFFF;
 }
 
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right:
+}
+
 footer {
     text-align: right;
     background-color:#304269
