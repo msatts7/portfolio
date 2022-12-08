@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/satterfieldm24/public_html/portfolio
+    - /bin/cp -R * $DEPLOYPATH
