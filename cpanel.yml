@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/satterfieldm24/DCI110-portfolio/public_html/
-    - /bin/cp -R * $DEPLOYPATH
